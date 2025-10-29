@@ -1,7 +1,7 @@
 <!-- Professional GitHub Profile by ChatGPT ✨ -->
 
-<h1 align="center">Hi 👋, I'm YOUR NAME</h1>
-<h3 align="center">Aspiring Computer Scientist | Python Full-Stack Developer</h3>
+<h1 align="center">Hi 👋, I'm Your KANIMOZHI</h1>
+<h3 align="center"> BE Computer Science Student|Aspiring Python Full-Stack Developer</h3>
 
 ---
 
@@ -10,7 +10,7 @@
 🎓 Currently learning **Computer Science & Modern Web Technologies**.  
 🧠 Exploring **Django**, **React**, **REST APIs**, and **AI-powered backends**.  
 💡 Love solving real-world problems through code and creativity.  
-📫 Reach me: [YOUR_EMAIL@example.com](mailto:YOUR_EMAIL@example.com)
+📫 Reach me: [vtkanimozhi2006@gmail.com](mailto:vtkanimozhi2006@gmail.com)
 
 ---
 
@@ -57,4 +57,4 @@
 ### ✨ Quote
 > _"Code. Learn. Build. Repeat."_  
 
-⭐️ From [YOUR_NAME](https://github.com/YOUR_USERNAME)
+⭐️ From [YOUR_NAME](https://github.com/KanimozhiV-dev)
